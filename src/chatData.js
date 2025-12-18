@@ -4,7 +4,6 @@ export const chatData = {
   workplace: "Kinneret College",
   email: "elilang92@gmail.com",
   phone: "054-7787136",
-  location: "קיבוץ דגניה א', ישראל",
   github: "https://github.com/Eli4231",
   projects: [
     {
