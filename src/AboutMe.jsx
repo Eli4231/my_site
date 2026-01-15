@@ -15,7 +15,7 @@ function AboutMe() {
           <section>
             <h3>קצת עליי</h3>
             <p> 
-            Eli Lang Software Engineer at Kinneret College</p>
+            Eli Lang Practical Software Engineer at Kinneret College</p>
           </section>
         </div>
         <div className="about-images">
