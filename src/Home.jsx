@@ -6,7 +6,7 @@ function Home() {
     <div className="home">
       <div className="home-hero">
         <h2>Welcome to my website</h2>
-        <p className="subtitle">"About me, my projects, and contact info. You can also ask the chat about me directly."</p>
+        <p className="subtitle">About me, my projects, and contact info. You can also ask the chat about me directly.</p>
       </div>
       
       <div className="home-links">
