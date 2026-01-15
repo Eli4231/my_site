@@ -32,17 +32,8 @@ function AboutMe() {
                 <p>לא ניתן לטעון את התמונה</p>
               )}
             </div>
-            <div className="image-placeholder">
-              {!imageErrors['img2'] ? (
-                <img 
-                  src="/images/eli.jpg" 
-                  alt="אלי לאנג"
-                  onError={() => handleImageError('img2')}
-                />
-              ) : (
-                <p>לא ניתן לטעון את התמונה</p>
-              )}
-            </div>
+
+            
           </div>
         </div>
       </div>
