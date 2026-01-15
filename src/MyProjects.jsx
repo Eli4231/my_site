@@ -22,6 +22,13 @@ function Projects() {
       description: 'משחק סימון פשוט בו צריך לזכור את הסדר של הכפתורים וללחוץ עליהם בסדר',
       technologies: ['C++'],
       link: 'https://github.com/Eli4231/simonFinal-Arduino'
+    },
+    {
+      id: 4,
+      title: 'To-Do List',
+      description:'A Node.js and SQL-based To-Do List application with full CRUD support for tasks and categories.',
+      technologies: ['JavaScript', 'CSS', 'Node.js', 'SQL'],
+      link: 'https://github.com/Eli4231/second-year-todoList'
     }
   ]
 
